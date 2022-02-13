@@ -1,4 +1,4 @@
-# Kaggle Jigsaw Rate Severity of Toxic Comments 7th place solution (Naoism's models)
+# Kaggle Jigsaw Rate Severity of Toxic Comments 7th place solution (Naoism part)
 - This is the repository of [naoism](https://www.kaggle.com/naoism) part in the 7th place solution of [Jigsaw Rate Severity of Toxic Comments](https://www.kaggle.com/c/jigsaw-toxic-severity-rating/).
 - The discription of this solution is available [here](https://www.kaggle.com/c/jigsaw-toxic-severity-rating/discussion/306366).
 - The inference notebook in the competition is available [here](https://www.kaggle.com/columbia2131/jigsaw-team-ensemble-006-fix/notebook).
